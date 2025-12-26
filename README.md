@@ -1,4 +1,4 @@
-# Modelado y Simulación de Tsunamis (Pipeline COMCOT)
+# Modelado y Simulación de Tsunamis (COMCOT)
 
 Este repositorio contiene las herramientas núcleo para la simulación de la generación, propagación e inundación de tsunamis, aplicado específicamente al estudio de la costa peruana.
 
